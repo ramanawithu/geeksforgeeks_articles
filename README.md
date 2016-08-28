@@ -29,9 +29,9 @@ A classic problem. Solution can be modeled in Graphs, Arrays and finally describ
 
 I was always clueless on why data types (both primitive & user defined) in C/C++ requires alignment. The article ['structure member alignment padding and data packing'](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) debunks few of the myths. All the content was inspired from ALP <sup>[2](#Hyde)</sup>.
 
-### 5. Pascal's identity and it's practical significance.
+### 5. Fake coin puzzle
 
-I focus on significance of mathematical identities while learning them. An example, [interesting fact observed in Pascal's Identity](http://www.geeksforgeeks.org/significance-of-pascals-identity/) describes on such case.
+Decision Trees - [You may be interested in the analysis of the problem and mathematical derivation :)](http://www.geeksforgeeks.org/decision-trees-fake-coin-puzzle/) - I first read the problem statement in Timothy<sup>[3](#Timothy)</sup>.
 
 ### 6. C++ Crash Macro
 
@@ -49,9 +49,9 @@ Every expression in C++ returns a type - [The ternary operator case](http://www.
 
 [An old C/C++ non-portable trick - Offsetoff macro](http://www.geeksforgeeks.org/the-offsetof-macro/).
 
-### 10. NUL, 0 and '0'
+### 10. Multidimensional arrays in C/C++
 
-An interesting low level fact in C++ - [differences among NUL, 0 and '0'](http://www.geeksforgeeks.org/g-fact-72/).
+C/C++ - How to interpret array and [multidimensional arrays](http://www.geeksforgeeks.org/multidimensional-pointer-arithmetic-in-cc/) and why an array decays to pointer when passed to function. One of the reader comment was '*clears entire pointer concept in short :)*'.
 
 ### 11. IEEE Floating Point Representation - An Introduction
 
@@ -93,13 +93,13 @@ I believe we need to unlearn to learn few new things. Object Oriented Programmin
 
 Finding median in a stream of integers. [An online algorithm](http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/). Another online algorithm.
 
-### 19. Fake coin puzzle
+### 19. Pascal's identity and it's practical significance.
 
-Decision Trees - [You may be interested in the analysis of the problem and mathematical derivation :)](http://www.geeksforgeeks.org/decision-trees-fake-coin-puzzle/) - I first read the problem statement in Timothy<sup>[3](#Timothy)</sup>.
+I focus on significance of mathematical identities while learning them. An example, [interesting fact observed in Pascal's Identity](http://www.geeksforgeeks.org/significance-of-pascals-identity/) describes on such case.
 
-### 20. Multidimensional arrays in C/C++
+### 20. NUL, 0 and '0'
 
-C/C++ - How to interpret array and [multidimensional arrays](http://www.geeksforgeeks.org/multidimensional-pointer-arithmetic-in-cc/) and why an array decays to pointer when passed to function. One of the reader comment was '*clears entire pointer concept in short :)*'.
+An interesting low level fact in C++ - [differences among NUL, 0 and '0'](http://www.geeksforgeeks.org/g-fact-72/).
 
 ### 21. Second Best in Tournament way
 

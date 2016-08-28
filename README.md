@@ -1,7 +1,7 @@
 
 # My contributions to [Geeksforgeeks.org](http://www.geeksforgeeks.org/)
 
-*I was graduated in 2005 from the College of Engineering, [GITAM](http://www.gitam.edu/). Since I did a diploma course at +2 level in ECE, I don't have much choice than opting ECE in bachelors. But, I love ECE core, and relaxed all 4 years :) By the time out of college, I was at ground zero in terms of Computer Science subjects, yet opted career in SW (software) industry. I used to memorize some basic algorithms for interview purpose.*
+*I was graduated in 2005 from the College of Engineering, [GITAM](http://www.gitam.edu/). Since I opted a diploma course at +2 level in ECE, I didn't have much choice than opting ECE in bachelors. But, I love ECE core, and relaxed all 4 years :) By the time out of college, I was at ground zero in terms of Computer Science subjects, yet opted career in SW (software) industry. During 2005, I used to memorize complexities of some basic algorithms for interview purpose.*
 
 *It was in 2009, I realized that I need to improve my CS skills, if I have to excel in the SW industry. From then, I was self made in terms of Computer Science. Even today, I keep learning new stuff with full contentment. I don't believe in degrees (no disrespect to highly qualified professionals).*
 
@@ -23,7 +23,7 @@ If the reader does his/her paper work, writing code to construct LCS is easy job
 
 ### 3. [Celebrity Problem](http://www.geeksforgeeks.org/the-celebrity-problem/)
 
-A classic problem. Solution can be modeled in Graphs, Arrays and finally describes a linear algorithm. It was famous interview question. However, the hint to solution is found in Manber<sup>[1](#Manber)</sup>.
+A classic problem. Solution can be modeled in Graphs, Arrays and finally describes a linear algorithm. It was famous interview question. However, the hint to solution was found in Manber<sup>[1](#Manber)</sup>.
 
 ### 4. Why structure types requires padding in C/C++?
 
@@ -45,7 +45,7 @@ I always emphasize on type aware programming. It helps in better (faster, compac
 
 Every expression in C++ returns a type - [The ternary operator case](http://www.geeksforgeeks.org/cc-ternary-operator-some-interesting-observations/).
 
-### 9. C/C++ trick to implement connected (referential) data structure
+### 9. C/C++ trick to implement connected (referential) data structures
 
 [An old C/C++ non-portable trick - Offsetoff macro](http://www.geeksforgeeks.org/the-offsetof-macro/).
 
@@ -55,15 +55,15 @@ An interesting low level fact in C++ - [differences among NUL, 0 and '0'](http:/
 
 ### 11. IEEE Floating Point Representation - An Introduction
 
-While working in Honeywell, I worked on some ARM based compiler intrinsics to emulate floating point math. I explored [some interesting basics of floating point representation](http://www.geeksforgeeks.org/floating-point-representation-basics/).
+While at Honeywell, I worked on some ARM based compiler intrinsics to emulate floating point math. I explored [some interesting basics of floating point representation](http://www.geeksforgeeks.org/floating-point-representation-basics/).
 
 ### 12. Image rotation algorithm
 
-[Turning an image by 90 degree :)](http://www.geeksforgeeks.org/turn-an-image-by-90-degree/)
+[Turning an image by 90 degree](http://www.geeksforgeeks.org/turn-an-image-by-90-degree/)
 
 ### 13. A clear binary search based on invariants
 
-[Binary Search - Took long time to invent it](http://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/). Algorithm emphasizes on invariant based proofs.
+[Binary Search - Took long time to invent it](http://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/). Algorithm emphasizes on invariant based proof.
 
 ### 14. Ceil of key in ordered collection
 
@@ -83,9 +83,9 @@ I believe we need to unlearn to learn few new things. Object Oriented Programmin
 
   [Leveraging virtual constructor in C++](http://www.geeksforgeeks.org/advanced-c-virtual-constructor/) - We can't have any other keyword except '*explicit & inline*' in front of C++ constructor. How can we mimic the behaviour of a constructor being virtual? The post unlocks the trick.
 
-  [Leveraging virtual copy constructor in C++](http://www.geeksforgeeks.org/advanced-c-virtual-copy-constructor/) - An extension of virtual constructor trick that forms a solution to the repeated design problem faced by programmers. In short, how can we create an object from an existing state in the hierarchy? i.e. object creation is deferred to runtime, from the stage of another object.
+  [Leveraging virtual copy constructor in C++](http://www.geeksforgeeks.org/advanced-c-virtual-copy-constructor/) - An extension of virtual constructor trick that forms a solution to the repeated design problem faced by programmers. In short, how can we create an object from an existing object in the hierarchy? i.e. object creation is deferred to runtime, from the state of another object without type information.
 
-  [Difference between definition and declaration of constructors in C++](http://www.geeksforgeeks.org/c-internals-default-constructors-set-1/) - Don't focus if not interested in internals.
+  [Difference between definition and declaration of constructors in C++](http://www.geeksforgeeks.org/c-internals-default-constructors-set-1/) - Don't read if not interested in C++ internals.
 
   [C++ conversion operators](http://www.geeksforgeeks.org/advanced-c-conversion-operators/) - An interesting C++ trick, less obvious to beginner in C++.
 
@@ -119,7 +119,7 @@ Inspired by [Gowri Kumar's](http://www.slideshare.net/gkumar007/bits-next-higher
 
 ##Why I am not active on Geeksforgeeks or other platforms?
 
-Content preparation & proof reading (self) is time consuming. Each post used to take atleast 2-3 hours. I used my travel time in the past to prepare content for the published posts. These days, I am staying near to work location. Apart from keeping abreast of technology, learning new algorithms/problem solving techniques, I am focused on other career priorities - *databases & data stores, data visualization, highly concurrent systems & content marketing platforms in specific.*
+Content preparation & proof reading (self) is time consuming. Each post used to take atleast 2-3 hours. In the past I prepared content during travel time. These days, I am staying near to work location. Apart from keeping abreast of technology, learning new algorithms/problem solving techniques, I am focused on other career priorities - *databases & data stores, data visualization, highly concurrent systems & content marketing platforms in specific.*
 
 --------------------------
 
